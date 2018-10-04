@@ -1,0 +1,119 @@
+=====
+check defference of id-image from ./images/fake_1.png to ./images/fake_2.png
+fake_hash1 dbb5b5c8887a22c5
+fake_hash2 caa4a5cba57a2a95
+phash diff text 14
+---
+check defference of face-image from ./cut_faces/fake_1.png to ./cut_faces/fake_2.png
+fake_hash1 0d1c385affe7c3d9
+fake_hash2 0c1c1e7e7e7cfdb9
+ahash diff text 20
+---
+check defference of text-image from ./hide_faces/fake_1.png to ./hide_faces/fake_2.png
+fake_hash1 a2362d3eb29a496e
+fake_hash2 a2b6bd7ef699496e
+dhash diff text 8
+=====
+
+=====
+check defference of id-image from ./images/fake_3.png to ./images/fake_4.png
+fake_hash1 dbbca4c9847a1aa5
+fake_hash2 dbbcb4c9847a18a5
+phash diff text 2
+---
+check defference of face-image from ./cut_faces/fake_3.png to ./cut_faces/fake_4.png
+fake_hash1 1038387e7e7e3c18
+fake_hash2 1038387e7e7c3c18
+ahash diff text 1
+---
+check defference of text-image from ./hide_faces/fake_3.png to ./hide_faces/fake_4.png
+fake_hash1 b35a4d6dda9a494f
+fake_hash2 d35a2d6dda9a494f
+dhash diff text 4
+=====
+
+=====
+check defference of id-image from ./images/fake_5.png to ./images/fake_6.png
+fake_hash1 dbb4b5c9a43a6285
+fake_hash2 da99b5c9593643c1
+phash diff text 18
+---
+check defference of face-image from ./cut_faces/fake_5.png to ./cut_faces/fake_6.png
+fake_hash1 3d3c3c5f7f3f341c
+fake_hash2 3c3c183e7e66e6e7
+ahash diff text 22
+---
+check defference of text-image from ./hide_faces/fake_5.png to ./hide_faces/fake_6.png
+fake_hash1 d25a6d5ef29b494e
+fake_hash2 33726d2df2c04d4e
+dhash diff text 17
+=====
+
+=====
+check defference of id-image from ./images/fake_9.png to ./images/fake_10.png
+fake_hash1 cabcb5c9856ac835
+fake_hash2 cb9cb4c9c56a18a7
+phash diff text 10
+---
+check defference of face-image from ./cut_faces/fake_9.png to ./cut_faces/fake_10.png
+fake_hash1 1038187e7e3c3c18
+fake_hash2 1038187e7e7e3c18
+ahash diff text 2
+---
+check defference of text-image from ./hide_faces/fake_9.png to ./hide_faces/fake_10.png
+fake_hash1 333f39093219494e
+fake_hash2 933a390982b2494c
+dhash diff text 13
+=====
+
+=====
+check defference of id-image from ./images/fake_11.png to ./images/fake_12.png
+fake_hash1 da1ab5a585c9da26
+fake_hash2 db5ab6a5c5ad9802
+phash diff text 12
+---
+check defference of face-image from ./cut_faces/fake_11.png to ./cut_faces/fake_12.png
+fake_hash1 0018183effcfcf06
+fake_hash2 0000107effcfcfc7
+ahash diff text 7
+---
+check defference of text-image from ./hide_faces/fake_11.png to ./hide_faces/fake_12.png
+fake_hash1 320d39f2d61a4a4c
+fake_hash2 320d39f2d21a4d4c
+dhash diff text 4
+=====
+
+=====
+check defference of id-image from ./images/fake_13.png to ./images/fake_14.png
+fake_hash1 cb9eb5c1c9225a35
+fake_hash2 da39b5c54b3a4a85
+phash diff text 16
+---
+check defference of face-image from ./cut_faces/fake_13.png to ./cut_faces/fake_14.png
+fake_hash1 0000007e7e7e7ebd
+fake_hash2 0020587cfefffdfd
+ahash diff text 12
+---
+check defference of text-image from ./hide_faces/fake_13.png to ./hide_faces/fake_14.png
+fake_hash1 e23679dad2914c48
+fake_hash2 a23a391ad2d10d4c
+dhash diff text 10
+=====
+
+=====
+check defference of id-image from ./images/fake_15.png to ./images/fake_16.png
+fake_hash1 cab4a5c98d5a72a5
+fake_hash2 cbb4b4c1b57a4a85
+phash diff text 12
+---
+check defference of face-image from ./cut_faces/fake_15.png to ./cut_faces/fake_16.png
+fake_hash1 0018187effffdf99
+fake_hash2 383c787cfe7c7c38
+ahash diff text 19
+---
+check defference of text-image from ./hide_faces/fake_15.png to ./hide_faces/fake_16.png
+fake_hash1 5316293ab29a4956
+fake_hash2 5376393ad2c1494e
+dhash diff text 12
+=====
+
